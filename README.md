@@ -51,6 +51,3 @@ churn-analysis/
 └── README.md              # Project documentation
 ```
 
-
-## 🚀 Status
-🚧 **In Progress** — Currently in the data exploration phase.
