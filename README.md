@@ -3,14 +3,14 @@
 ## 📌 About
 A data analytics project focused on identifying why customers leave a subscription-based business and which customer segments have higher churn rates.
 
-## 🎯 Objective
+##  Objective
 - Analyze customer data to uncover patterns behind churn
 - Identify high-risk customer segments with the highest churn rates
 - Calculate key business metrics like churn rate, retention rate, and revenue at risk
 - Build an interactive Power BI dashboard to present actionable insights
 - Help the business improve customer retention and reduce revenue loss
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 | Tool | Purpose |
 |------|---------|
 | **Python** (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, and visualization |
@@ -18,7 +18,7 @@ A data analytics project focused on identifying why customers leave a subscripti
 | **Power BI** | Interactive dashboard with business insights |
 | **Git & GitHub** | Version control |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 churn-analysis/ 
